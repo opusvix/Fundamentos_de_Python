@@ -1,4 +1,4 @@
-# Fundamentos de Python :snake:
+# Fundamentos de Python :snake: 🧑‍💻
 ## Curso Fundamentos Fundamentos de Python na [Udemy](https://www.udemy.com/course/fundamentos-de-python-2021/)
 #### :computer: Temas abordados durante o curso foram: :rocket:
 - [Seção 01 - Fundamentos de Python]()
