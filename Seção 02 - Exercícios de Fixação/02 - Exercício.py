@@ -1,3 +1,7 @@
+"""
+Faça um programa que solicite três números inteiros do usuário e imprima a soma destes.
+"""
+
 number_01 = int(input("Enter your first number: "))
 number_02 = int(input("Enter your second number: "))
 number_03 = int(input("Enter your third number: "))
